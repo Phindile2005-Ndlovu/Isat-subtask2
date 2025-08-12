@@ -1,0 +1,7 @@
+ Add Binary to Decimal function
+Message:
+Implement binaryToDecimal() with validation
+Changes:
+Implement int binaryToDecimal(const string &binary_string)
+Add validation for invalid binary input
+Add to menu option "2"
