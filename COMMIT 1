@@ -1,0 +1,7 @@
+Project setup
+Message:
+Initial project setup with basic structure
+Changes:
+Create the .cpp file (e.g., converter.cpp)
+Add #include directives for <iostream>, <string>, <cstdlib>, <ctime>
+Set up main() function with empty menu loop
