@@ -1,0 +1,7 @@
+ Add Hexadecimal conversions
+Message:
+Add hexadecimalToDecimal() and decimalToHexadecimal() functions
+Changes:
+Implement both functions
+Add menu options "3" and "4" for them
+Handle uppercase and lowercase hex input
