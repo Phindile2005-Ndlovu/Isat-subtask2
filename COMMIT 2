@@ -1,0 +1,7 @@
+Add Decimal to Binary function
+Message:
+Add decimalToBinary() function with working conversion logic
+Changes:
+Implement string decimalToBinary(int decimal_number)
+Add a menu option that calls it when the user selects "1"
+Commit 3: Add Binary to Decimal function
